@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>hello</h1>
+      <h1>내가 만든 코드</h1>
     </>
   )
 }
